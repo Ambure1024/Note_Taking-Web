@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Live on GitHub Pages](https://your-username.github.io/note-taking-app)
-
-> Replace the above link with your actual GitHub Pages URL.
-
----
 
 ## ⚙️ Features
 
