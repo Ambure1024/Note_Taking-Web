@@ -77,8 +77,9 @@ bash
 Copy
 Edit
 npm run deploy
-📸 Screenshots
-(Add some screenshots of your app here if available)
+
+![image](https://github.com/user-attachments/assets/8b929ec6-5a20-4bba-a5f3-6c7cfd25abff)
+
 
 🙋‍♀️ Developed By
 👩‍💻 Komal Ambure
