@@ -78,7 +78,7 @@ Copy
 Edit
 npm run deploy
 
-![image](https://github.com/user-attachments/assets/8b929ec6-5a20-4bba-a5f3-6c7cfd25abff)
+[image](https://github.com/user-attachments/assets/8b929ec6-5a20-4bba-a5f3-6c7cfd25abff)
 
 
 🙋‍♀️ Developed By
